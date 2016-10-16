@@ -1,6 +1,6 @@
 # ltex - List tex
 
-This tool simply list your tex files with a hierarchy of include/input.
+Tool to list your tex files with a hierarchy of include/input.
 
 ## Install
 
